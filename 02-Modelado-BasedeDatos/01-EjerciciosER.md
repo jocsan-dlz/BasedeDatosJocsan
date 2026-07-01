@@ -4,7 +4,7 @@
 
 un hospital registra informacion de sus pacientes: 
 
->De cada paciente que almacena:
+> De cada paciente que almacena:
 - numero de paciente que lo identifica
 - Nombre
 - Fecha de Nacimiento
@@ -30,7 +30,7 @@ un hospital registra informacion de sus pacientes:
 
 
 
-![Ejercicio1](..//img/ER/Diagrama%201.drawio.png)
+![Ejercicio1](..//img/ER/Diagrama%201.1.drawio.png)
 
 ## Ejercicio 2
 
@@ -54,7 +54,7 @@ Una Universidad administra profesores y cursos
 3. Puede existir un profesor que actualmente no imparta cursos
 4. Todo curso debe estatar asignado a un profesor
 
-![Ejercicio2](..//img/ER/Diagrama%201.drawio.png)
+![Ejercicio2](..//img/ER/Diagrama%202.drawio.png)
 
 ## Ejercicio 3
 
@@ -83,7 +83,7 @@ Una escuela administra alumnos y materias
     - Calificacion final
 Nota: a la relacion nombrarla **INSCRIBE**
 
-![Ejercicio2](..//img/ER/Diagrama%201.drawio.png)
+![Ejercicio3](..//img/ER/Diagrama%203.drawio.png)
 
 ## Ejercicio 4
  
@@ -117,9 +117,15 @@ Nota: a la relacion nombrarla **INSCRIBE**
  8. El detalle del pedido no esiste sin producto
  9. El detalle almacena la cantidad vendida y el precio de venta
 
+![Ejercicio4](..//img/ER/Diagrama%204.drawio.png)
 
+## Ejercicio 5
+1. The company is organized into departments. Each department has a unique name, a unique number, and a particular employee who manages the department. We keep track of the start date when that employee began managing the department. A department may have several locations.
+2. A department controls a number of projects, each of which has a unique name, a unique number, and a single location.
+3. We store each employee's name, Social Security number, address, salary, sex (gender), and birth date. An employee is assigned to one department, but may work on several projects, which are not necessarily controlled by the same department. We keep track of the current number of hours per week that an employee works on each project. We also keep track of the direct supervisor of each employee (who is another employee).
+4. We want to keep track of the dependents of each employee for insurance purposes. We keep each dependent's first name, sex, birth date, and relationship to the employee.
 
-
+![Ejercicio5](..//img/ER/Diagrama%206.jpeg)
 
 
 

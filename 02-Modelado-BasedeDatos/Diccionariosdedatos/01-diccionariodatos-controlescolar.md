@@ -112,4 +112,4 @@ TODO: Documentar las siguientes tablas
 
 9. Diagrama relacional
 
-![EjercicioRelacional](../../img/Relacional/Ejercicio1.png)
+![EjercicioRelacional](../../img/Relacional/Tabla_3.png)
